@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17253ac5.css",
+    "main.js": "/static/js/main.ad31b68c.js",
+    "static/fonts/FaceType-PublicaPlay-Regular.woff": "/static/fonts/FaceType-PublicaPlay-Regular.woff",
+    "index.html": "/index.html",
+    "main.17253ac5.css.map": "/static/css/main.17253ac5.css.map",
+    "main.ad31b68c.js.map": "/static/js/main.ad31b68c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17253ac5.css",
+    "static/js/main.ad31b68c.js"
+  ]
+}
